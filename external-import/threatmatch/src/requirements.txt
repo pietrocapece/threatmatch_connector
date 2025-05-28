@@ -1,2 +1,6 @@
-pycti==6.4.2
-beautifulsoup4==4.12.3
+<<<<<<< HEAD
+pycti==6.2.15
+bs4
+=======
+pycti==6.2.16
+>>>>>>> 29f679fdc ([all] Release 6.2.16)
